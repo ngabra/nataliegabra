@@ -66,6 +66,14 @@ font-size:14px;
 
 }
 
+.bio {
+    max-width: 600px;
+    margin: 40px auto;
+    text-align: center;
+    line-height: 1.6;
+    padding: 20px;
+}
+
 /* NAV BUTTONS */
 
 .nav-buttons a {
